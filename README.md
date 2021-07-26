@@ -14,7 +14,7 @@ This is a game I made for practising Python--It's also my first Python project! 
 - 🐍 Python
 - 🎮 pygame library
 - ⚙️ Object Oriented Programming (OOP)
-- Other Pyhton libraries: 🎲 random and ⏳ time
+- Other Python libraries: 🎲 random and ⏳ time
 
 ## Setup
 In addition to Python, you'll need to install the [pygame library][pygame] in order to run the game.
