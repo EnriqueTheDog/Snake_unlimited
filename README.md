@@ -1,4 +1,4 @@
-# 🐍 Snake Ultimate!
+# 🐍 Snake Unlimited!
 
 This is a game I made for practising Python---It's also my first Python project! After spending some days studying Python, I decided to start by a simple, well-known learning proyect. It took me several hours to complete it, and it helped me a lot to get comfortable with Python basics, and also to learn about the pygame library.
 
