@@ -17,7 +17,10 @@ This is a game I made for practising Python--It's also my first Python project! 
 - Other Python libraries: 🎲 random and ⏳ time
 
 ## Setup
-In addition to Python, you'll need to install the [pygame library][pygame] in order to run the game.
+In addition to Python, you'll need [pygame library][pygame] in order to run the game.
+You can install it running the requirements file:
+`pip install -r requirements.txt`
+
 
 ## Contact
 
