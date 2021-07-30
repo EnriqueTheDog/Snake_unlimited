@@ -19,7 +19,7 @@ This is a game I made for practising Python--It's also my first Python project! 
 ## Setup
 In addition to Python, you'll need [pygame library][pygame] in order to run the game.
 You can install it running the requirements file:
-   pip install -r requirements.txt
+   `pip install -r requirements.txt`
 
 
 ## Contact
